@@ -20,7 +20,14 @@
   },
   "homepage": "https://github.com/mjgiannelli/food-festival#readme",
   "devDependencies": {
+    "@popperjs/core": "^2.10.0",
     "webpack": "^5.51.2",
     "webpack-cli": "^4.8.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "install": "^0.13.0",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
   }
 }
